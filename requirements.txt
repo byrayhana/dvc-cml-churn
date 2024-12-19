@@ -1,0 +1,6 @@
+scikit-learn==1.6.0
+sklearn-features==0.0.2
+imblearn
+matplotlib
+seaborn
+joblib
